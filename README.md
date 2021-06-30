@@ -1,1 +1,2 @@
 # Predictive_Analytics_of_Accident_Severity
+Accidents are some of the most unprecedented disaster one could encounter.Accidents are unexpected cost many precious lives and global economy around 1.8 trillion $. In this project,we analyzed the factors that impact accident and its severity.In the end,we developed a statistical model for developing a system that can warn driver if he is involved in any such activity that leads toward terrible circumstances.
